@@ -1,0 +1,15 @@
+.dashboardContent {
+}
+.list {
+  display: flex;
+  justify-content: space-between;
+
+  flex-wrap: wrap;
+}
+.list__item {
+  padding: 30px;
+  flex: 0 0 30%;
+  margin-bottom: 30px;
+  border: 2px solid black;
+  box-shadow: 0 0 30px 0px #000000;
+}

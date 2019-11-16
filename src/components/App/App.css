@@ -1,0 +1,10 @@
+.route-wrapper {
+  position: relative;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.route-wrapper > div {
+  position: absolute;
+}
